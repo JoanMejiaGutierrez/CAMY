@@ -1,0 +1,71 @@
+D:\Users\cdlr0\Desktop\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.exe.config
+D:\Users\cdlr0\Desktop\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.exe
+D:\Users\cdlr0\Desktop\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.pdb
+D:\Users\cdlr0\Desktop\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.frmLenguaje.resources
+D:\Users\cdlr0\Desktop\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.Properties.Resources.resources
+D:\Users\cdlr0\Desktop\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.GenerateResource.cache
+D:\Users\cdlr0\Desktop\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.CoreCompileInputs.cache
+D:\Users\cdlr0\Desktop\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.exe
+D:\Users\cdlr0\Desktop\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.pdb
+D:\Users\cdlr0\Desktop\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.AssemblyReference.cache
+C:\Users\Myria\Downloads\Escuela\6xto Semestre\Lenguajes y automatas\Unidad 4 y5\Programa\fase lexica\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.exe.config
+C:\Users\Myria\Downloads\Escuela\6xto Semestre\Lenguajes y automatas\Unidad 4 y5\Programa\fase lexica\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.exe
+C:\Users\Myria\Downloads\Escuela\6xto Semestre\Lenguajes y automatas\Unidad 4 y5\Programa\fase lexica\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.pdb
+C:\Users\Myria\Downloads\Escuela\6xto Semestre\Lenguajes y automatas\Unidad 4 y5\Programa\fase lexica\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.frmLenguaje.resources
+C:\Users\Myria\Downloads\Escuela\6xto Semestre\Lenguajes y automatas\Unidad 4 y5\Programa\fase lexica\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.Properties.Resources.resources
+C:\Users\Myria\Downloads\Escuela\6xto Semestre\Lenguajes y automatas\Unidad 4 y5\Programa\fase lexica\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.GenerateResource.cache
+C:\Users\Myria\Downloads\Escuela\6xto Semestre\Lenguajes y automatas\Unidad 4 y5\Programa\fase lexica\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Myria\Downloads\Escuela\6xto Semestre\Lenguajes y automatas\Unidad 4 y5\Programa\fase lexica\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.exe
+C:\Users\Myria\Downloads\Escuela\6xto Semestre\Lenguajes y automatas\Unidad 4 y5\Programa\fase lexica\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.pdb
+C:\Users\Myria\Downloads\Escuela\6xto Semestre\Lenguajes y automatas\Unidad 4 y5\Programa\fase lexica\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.AssemblyReference.cache
+C:\Users\Myria\Downloads\Escuela\6xto Semestre\Lenguajes y automatas\Unidad 4 y5\Programa\fase lexica\RecorridoMatriz\RecorridoMatriz\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Myria\Downloads\Escuela\6xto Semestre\Lenguajes y automatas\Unidad 4 y5\Programa\fase lexica\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.CopyComplete
+D:\Users\cdlr0\Desktop\FaseLexicaV3\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.exe.config
+D:\Users\cdlr0\Desktop\FaseLexicaV3\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.exe
+D:\Users\cdlr0\Desktop\FaseLexicaV3\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.pdb
+D:\Users\cdlr0\Desktop\FaseLexicaV3\RecorridoMatriz\RecorridoMatriz\bin\Debug\FontAwesome.Sharp.dll
+D:\Users\cdlr0\Desktop\FaseLexicaV3\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.AssemblyReference.cache
+D:\Users\cdlr0\Desktop\FaseLexicaV3\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.frmLenguaje.resources
+D:\Users\cdlr0\Desktop\FaseLexicaV3\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.Properties.Resources.resources
+D:\Users\cdlr0\Desktop\FaseLexicaV3\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.GenerateResource.cache
+D:\Users\cdlr0\Desktop\FaseLexicaV3\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.CoreCompileInputs.cache
+D:\Users\cdlr0\Desktop\FaseLexicaV3\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.CopyComplete
+D:\Users\cdlr0\Desktop\FaseLexicaV3\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.exe
+D:\Users\cdlr0\Desktop\FaseLexicaV3\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.pdb
+D:\Users\cdlr0\Desktop\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.exe.config
+D:\Users\cdlr0\Desktop\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.exe
+D:\Users\cdlr0\Desktop\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.pdb
+D:\Users\cdlr0\Desktop\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\bin\Debug\FontAwesome.Sharp.dll
+D:\Users\cdlr0\Desktop\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.AssemblyReference.cache
+D:\Users\cdlr0\Desktop\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.frmLenguaje.resources
+D:\Users\cdlr0\Desktop\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.Properties.Resources.resources
+D:\Users\cdlr0\Desktop\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.GenerateResource.cache
+D:\Users\cdlr0\Desktop\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.CoreCompileInputs.cache
+D:\Users\cdlr0\Desktop\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.CopyComplete
+D:\Users\cdlr0\Desktop\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.exe
+D:\Users\cdlr0\Desktop\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.pdb
+D:\Users\cdlr0\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.exe.config
+D:\Users\cdlr0\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.exe
+D:\Users\cdlr0\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.pdb
+D:\Users\cdlr0\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\bin\Debug\FontAwesome.Sharp.dll
+D:\Users\cdlr0\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.AssemblyReference.cache
+D:\Users\cdlr0\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.frmLenguaje.resources
+D:\Users\cdlr0\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.Properties.Resources.resources
+D:\Users\cdlr0\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.GenerateResource.cache
+D:\Users\cdlr0\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.CoreCompileInputs.cache
+D:\Users\cdlr0\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.CopyComplete
+D:\Users\cdlr0\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.exe
+D:\Users\cdlr0\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.pdb
+C:\Users\Joan\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.exe.config
+C:\Users\Joan\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.exe
+C:\Users\Joan\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\bin\Debug\RecorridoMatriz.pdb
+C:\Users\Joan\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Joan\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.AssemblyReference.cache
+C:\Users\Joan\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joan\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.frmLenguaje.resources
+C:\Users\Joan\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.Properties.Resources.resources
+C:\Users\Joan\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.GenerateResource.cache
+C:\Users\Joan\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Joan\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.csproj.CopyComplete
+C:\Users\Joan\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.exe
+C:\Users\Joan\Desktop\CAMY\FaseLexicaV5\RecorridoMatriz\RecorridoMatriz\obj\Debug\RecorridoMatriz.pdb
