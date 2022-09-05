@@ -26,9 +26,7 @@ namespace RecorridoMatriz
         List<TablaDeSimbolos> tablaDeSimbolos = new List<TablaDeSimbolos>();
         //List<TipoDeError> listaDeTiposDeErrores = new List<TipoDeError>();
         List<string> listaPalabrasErroneas = new List<string>();
-
-        //arreglo con alfabeto
-        string[] Alfabeto;
+ 
 
         //datos auxiliares
                 //variable para enumerar identificadores de tabla de simbolos
@@ -61,16 +59,6 @@ namespace RecorridoMatriz
             InitializeComponent();
         }
 
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void dataGridView2_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -86,25 +74,13 @@ namespace RecorridoMatriz
             dtgTablaDeSimbolos.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
 
             dtgIden.DataSource = LlenarDatos();
-            ReescribirMayusculas();
-
-            //definir alfabeto
-            Alfabeto = new string[84] { "Estado", "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l",
-            "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", "A", "B", "C", "D", "E", "F", 
-            "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z",
-            "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "+", "-", "*", "/", "^", "&", "|", "!", 
-            "<", ">", "=", "(", ")", "_", "\"", ",", "'", ".", "Δ", "FDC", "CAT"};
+            Conexion conn = new Conexion();
+            conn.listaCamposBD();
+            conn.listaEstadosBD();
+            string[,] m  = conn.cargarMatriz();
         }
 
-        void ReescribirMayusculas()
-        {
-            string strMayus;
-            for(int i = 27; i<53; i++)
-            {
-                strMayus = dtgIden.Columns[i].HeaderText;
-                dtgIden.Columns[i].HeaderText = Regex.Replace(strMayus, @"[\d-]", string.Empty);
-            }
-        }
+ 
 
         //metodo para añadir texto al richtextbox del token
         void AgregarAToken(string strNota)
@@ -250,16 +226,35 @@ namespace RecorridoMatriz
         //Metodo para leer la matriz de la base de datos
         public DataTable LlenarDatos()
         {
-            Conexion.Conectar();
-            DataTable dt = new DataTable();
-            string consulta = "SELECT* FROM lexico";
-            SqlCommand cmd = new SqlCommand(consulta, Conexion.Conectar());
+            try
+            {
+                Conexion conn = new Conexion();
+                conn.Conectar();
+                DataTable dt = new DataTable();
+                string consulta = "SELECT * FROM MT";
+                SqlCommand cmd = new SqlCommand(consulta);
 
-            SqlDataAdapter da = new SqlDataAdapter(cmd);
+                SqlDataAdapter da = new SqlDataAdapter(cmd);
 
-            da.Fill(dt);
-            return dt;
+                da.Fill(dt);
+
+                return dt;
+            }
+            catch
+            {
+                return null;
+            }
+            
         }
+
+
+        
+
+
+
+       
+
+
         string[,] _matriz;
         void GenerarMatriz()
         {
@@ -281,7 +276,7 @@ namespace RecorridoMatriz
         void RecorrerMatriz(char c, ref int intColumna)
         {
             //recorrido de alfabeto
-            foreach (string simbolo in Alfabeto)
+            foreach (string simbolo in Conexion.listaCampos)
             {
                 //si el caracter se encuentra en el alfabeto
                 if (c.ToString() == simbolo)
@@ -770,7 +765,7 @@ namespace RecorridoMatriz
                 }
                 else if (res == DialogResult.No)
                 {
-                    rtxbSentencias.Text = "";
+                    rtxbSentencias.Text = "INICIO\n\nFIN";
                 }
             }
         }
