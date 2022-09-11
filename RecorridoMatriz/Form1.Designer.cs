@@ -356,7 +356,7 @@ namespace RecorridoMatriz
             this.iconButton1.IconColor = System.Drawing.Color.White;
             this.iconButton1.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButton1.IconSize = 20;
-            this.iconButton1.Location = new System.Drawing.Point(1140, 12);
+            this.iconButton1.Location = new System.Drawing.Point(1038, 12);
             this.iconButton1.Name = "iconButton1";
             this.iconButton1.Size = new System.Drawing.Size(25, 15);
             this.iconButton1.TabIndex = 22;
@@ -376,7 +376,7 @@ namespace RecorridoMatriz
             this.iconButton3.IconColor = System.Drawing.Color.White;
             this.iconButton3.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButton3.IconSize = 20;
-            this.iconButton3.Location = new System.Drawing.Point(1171, 12);
+            this.iconButton3.Location = new System.Drawing.Point(1069, 12);
             this.iconButton3.Name = "iconButton3";
             this.iconButton3.Size = new System.Drawing.Size(25, 25);
             this.iconButton3.TabIndex = 24;
@@ -394,7 +394,7 @@ namespace RecorridoMatriz
             this.iconButton4.IconColor = System.Drawing.Color.White;
             this.iconButton4.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.iconButton4.IconSize = 20;
-            this.iconButton4.Location = new System.Drawing.Point(1202, 12);
+            this.iconButton4.Location = new System.Drawing.Point(1100, 12);
             this.iconButton4.Name = "iconButton4";
             this.iconButton4.Size = new System.Drawing.Size(25, 25);
             this.iconButton4.TabIndex = 25;
@@ -542,7 +542,7 @@ namespace RecorridoMatriz
             this.AutoScroll = true;
             this.AutoScrollMargin = new System.Drawing.Size(1, 1);
             this.BackColor = System.Drawing.Color.MidnightBlue;
-            this.ClientSize = new System.Drawing.Size(1403, 788);
+            this.ClientSize = new System.Drawing.Size(1386, 788);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.lblNumErrores);
             this.Controls.Add(this.lblTotalErrores);

@@ -15,9 +15,11 @@ using System.Windows.Forms;
 using System.Runtime.InteropServices;
 using FontAwesome.Sharp;
 using System.Diagnostics;
+using System.Windows.Controls;
 
 namespace RecorridoMatriz
 {
+    //aqui
     public partial class frmLenguaje : Form
     {
         //listas a utilizar
@@ -73,11 +75,22 @@ namespace RecorridoMatriz
             dtgTablaDeSimbolos.AllowUserToDeleteRows = false;
             dtgTablaDeSimbolos.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
 
-            dtgIden.DataSource = LlenarDatos();
+            //dtgIden.DataSource = LlenarDatos();
             Conexion conn = new Conexion();
+            conn.Conectar();
+
+
             conn.listaCamposBD();
             conn.listaEstadosBD();
             string[,] m  = conn.cargarMatriz();
+
+
+
+            //dtgIden.DataSource = new ArrayDataView(conn.cargarMatriz());
+
+            //BindingSource CantonesBindingSource;
+            //CantonesBindingSource = new BindingSource(conn.cargarMatriz(), null);
+            //dtgIden.DataSource = CantonesBindingSource;
         }
 
  
